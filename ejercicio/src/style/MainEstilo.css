@@ -1,0 +1,15 @@
+main {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    background-color: #eeeeee;
+  }
+  
+.tarjeta {
+    border: 1px solid #f33737;
+    border-radius: 6px;
+    padding: 1rem;
+    width: 40%;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+  
